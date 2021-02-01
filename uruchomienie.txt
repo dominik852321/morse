@@ -1,0 +1,3 @@
+cd mors
+
+awk -f morse.awk tekst
